@@ -21,3 +21,16 @@ class ReverseArray{
 		
 	}
 }
+
+/*
+enter the size of array :
+3
+Enter the elments of Array:
+11
+22
+33
+the reverse array is :
+33
+22
+11
+*/
