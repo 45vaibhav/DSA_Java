@@ -17,7 +17,7 @@ class MiddleDigit{
 			rem=sum%10;
 			mid=mid*10+rem;
 		  }
-			System.out.println("the middle element is :"+mid);					
+		System.out.println("the middle element is :"+mid);					
 
 	}
 	
