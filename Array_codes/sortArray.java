@@ -18,3 +18,10 @@ class ArraySort{
 
 	}
 }
+
+
+/*
+[3, 4, 11, 33, 55]
+second Largest Value :33
+second small Value :4
+*/

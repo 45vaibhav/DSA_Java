@@ -27,3 +27,16 @@ class FrequencyArray{
 		}
 	
 	}
+
+/*Enter the size array
+4
+Enter the array elements:
+1
+2
+2
+3
+max element is:3
+1
+2
+1
+*/

@@ -18,3 +18,16 @@ class evenElements{
 		}
 	
 	}
+/*Enter the size array
+5
+Enter the array elements:
+22
+33
+44
+33
+33
+Even  index array elements are:
+22
+44
+33
+*/

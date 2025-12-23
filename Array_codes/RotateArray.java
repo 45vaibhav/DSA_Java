@@ -13,7 +13,7 @@ class RotateArray{
 	
 	int min=arr[0];
 	arr[n-1]=min;
-	for(int i=0;i<=n-1;i++){
+	for(int i=0;i<n-1;i++){
 		arr[i]=arr[i+1];
 		}
 	
