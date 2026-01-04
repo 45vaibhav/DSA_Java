@@ -1,4 +1,4 @@
-// i want additoin of fibonacci number 
+// i want additoin of fibonacci number in line  
 
 import java.util.*;
 class FibonacciNum{
