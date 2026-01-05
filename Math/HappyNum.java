@@ -1,4 +1,4 @@
-// check number is happy or not 
+// check number is happy or not check
 
 import java.util.*;
 
