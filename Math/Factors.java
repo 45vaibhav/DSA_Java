@@ -10,10 +10,13 @@ class Factors{
 			for(int i=1;i<=length;i++){
 				if(n%i==0){
 				int d=n/i;
+				if(i==d){
+				ls.add(i);
+				}else{
 				ls.add(i);
 				ls.add(d);
 				}
-			
+			}
 			}
 		System.out.println(ls);
 		}
@@ -23,5 +26,5 @@ class Factors{
 /*
 enter the number :
 36
-[1, 36, 2, 18, 3, 12, 4, 9, 6, 6]
+[1, 36, 2, 18, 3, 12, 4, 9, 6]
 */
