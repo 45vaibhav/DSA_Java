@@ -16,8 +16,13 @@ public class AmstrongNumber {
         // System.out.println(count);
         while(original!=0){
             int rem=original%10;
-            sum+=Math.pow(rem, count);
             original/=10;
+            int total=1;
+
+            for(int i=1;i<=count;i++){
+                total=total*rem;
+            }
+            sum+=total;
         }
 
         if(temp==sum){
