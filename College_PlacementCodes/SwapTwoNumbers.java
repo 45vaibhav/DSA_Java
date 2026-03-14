@@ -30,5 +30,5 @@ enter the first number :
 enter the second number :
 12
 num1:12
-num2 :33s
+num2 :33
 */
