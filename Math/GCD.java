@@ -18,8 +18,8 @@ public class GCD {
 
 /*
 enter the first number :
-14
+45
 enter the second number :
-46
-GCD is :2
+54
+GCD is :9
 */
