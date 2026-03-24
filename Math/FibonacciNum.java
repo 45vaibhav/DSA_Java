@@ -24,3 +24,10 @@ class FibonacciNum{
 		f.fibonacci(n);
 	}
 }
+
+
+/*
+Enter the number
+11
+89
+*/
