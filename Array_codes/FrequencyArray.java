@@ -35,7 +35,7 @@ Enter the array elements:
 2
 2
 3
-max element is a:3
+max element f is a:3
 1
 2
 1
